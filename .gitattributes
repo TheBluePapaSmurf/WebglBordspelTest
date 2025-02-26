@@ -1,0 +1,4 @@
+*.wasm binary
+*.data binary
+*.mem binary
+*.symbols text
